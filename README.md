@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+cloud-native+data+platforms+on+Azure;Automating+everything+with+GitHub+Actions+%26+Copilot;Streaming+infrastructure+at+scale+with+Kafka+%26+K8s)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmaharja_uhg)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dazedavid)
 &nbsp;
 [![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
 &nbsp;
@@ -131,10 +131,10 @@ currently:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dmaharja_uhg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0078D4&icon_color=00BCF2&text_color=c9d1d9" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dmaharja_uhg&theme=tokyonight&hide_border=true&background=0d1117&ring=0078D4&fire=00BCF2&currStreakLabel=0078D4" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=dazedavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0078D4&icon_color=00BCF2&text_color=c9d1d9" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dazedavid&theme=tokyonight&hide_border=true&background=0d1117&ring=0078D4&fire=00BCF2&currStreakLabel=0078D4" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmaharja_uhg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&langs_count=8" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazedavid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&langs_count=8" height="160" />
 
 </div>
 
@@ -206,7 +206,7 @@ Built a **fully autonomous security remediation pipeline** using **GitHub Copilo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dmaharja_uhg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D4&line=00BCF2&point=0078D4&area=true&area_color=0078D4" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dazedavid&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0078D4&line=00BCF2&point=0078D4&area=true&area_color=0078D4" width="95%" />
 
 </div>
 
@@ -216,7 +216,7 @@ Built a **fully autonomous security remediation pipeline** using **GitHub Copilo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dmaharja_uhg&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=dazedavid&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%" />
 
 </div>
 
@@ -228,7 +228,7 @@ Built a **fully autonomous security remediation pipeline** using **GitHub Copilo
 
 <br/><br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dmaharja_uhg&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=dazedavid&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
