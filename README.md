@@ -121,6 +121,8 @@ currently:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
@@ -202,7 +204,21 @@ Built a **fully autonomous security remediation pipeline** using **GitHub Copilo
 
 ---
 
-## 📈 Contribution Activity
+## � Snake Eating My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dazedavid/dazedavid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dazedavid/dazedavid/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/dazedavid/dazedavid/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## �📈 Contribution Activity
 
 <div align="center">
 
