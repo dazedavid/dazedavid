@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=220&section=header&text=David%20Maharjan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Platform%20Engineer%20%7C%20Kubernetes%20%7C%20Kafka%20%7C%20Azure%20%7C%20Terraform&descSize=16&descAlignY=55&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0078D4,100:00BCF2&height=220&text=David%20Maharjan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Platform%20Engineer%20%7C%20Kubernetes%20%7C%20Kafka%20%7C%20Azure%20%7C%20Terraform&descSize=16&descAlignY=55&descColor=ffffff" width="100%" />
 
 <div align="center">
 
@@ -236,4 +236,4 @@ Built a **fully autonomous security remediation pipeline** using **GitHub Copilo
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0078D4,100:00BCF2&height=120&section=footer" width="100%" />
